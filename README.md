@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 Currently Learning
-- **Next.js** for modern full-stack apps  
+- **AWS** for modern back-end  
 - **Socket.io** for real-time communication  
 - **DevOps basics** (CI/CD, Docker)  
 
