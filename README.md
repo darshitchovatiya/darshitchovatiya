@@ -1,5 +1,6 @@
 # Hi 👋, I'm Darshit Chovatiya  
 ### Full-Stack Developer | MERN | Next.js | Real-time Apps  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00C0FF&width=435&lines=Hi+👋,+I`m+Darshit+Chovatiya;Full-Stack+Developer)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=darshitchovatiya&label=Profile%20views&color=0e75b6&style=flat)
 
